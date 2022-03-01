@@ -1,0 +1,8 @@
+#网易云去开屏广告
+^https://p6\.music\.126\.net/ url reject
+^http://iadmusicmat\.music\.126\.net/ url reject
+
+#最右去广告
+^http://v2-mg01\.kwaicdn\.com url reject
+.*imgs\b.com.*\.(mp4|jpg|jpeg|png) url reject
+.*img\b.com url reject
