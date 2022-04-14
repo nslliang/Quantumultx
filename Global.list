@@ -559,7 +559,7 @@ DOMAIN-SUFFIX,wn.com,PROXY
 DOMAIN-SUFFIX,wolframalpha.com,PROXY
 DOMAIN-SUFFIX,x-art.com,PROXY
 DOMAIN-SUFFIX,yimg.com,PROXY
-DOMAIN-SUFFIX,limbopro.xyz,PROXY
+DOMAIN-SUFFIX,limbopro,PROXY
 DOMAIN,api.steampowered.com,PROXY
 DOMAIN,store.steampowered.com,PROXY
 DOMAIN-SUFFIX,cableav.tv,PROXY
