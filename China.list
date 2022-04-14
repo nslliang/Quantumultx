@@ -1,0 +1,33 @@
+# Apple
+DOMAIN-SUFFIX,aaplimg.com,Apple
+DOMAIN-SUFFIX,apple.co,Apple
+DOMAIN-SUFFIX,apple.com,Apple
+DOMAIN-SUFFIX,apple.com.cn,Apple
+DOMAIN-SUFFIX,apple-cloudkit.com,Apple
+DOMAIN-SUFFIX,apple-livephotoskit.com,Apple
+DOMAIN-SUFFIX,apple-mapkit.com,Apple
+DOMAIN-SUFFIX,applemusic.com,Apple
+DOMAIN-SUFFIX,appstore.com,Apple
+DOMAIN-SUFFIX,apzones.com,Apple
+DOMAIN-SUFFIX,cdn-apple.com,Apple
+DOMAIN-SUFFIX,icloud.com,Apple
+DOMAIN-SUFFIX,icloud.com.cn,Apple
+DOMAIN-SUFFIX,icloud-content.com,Apple
+DOMAIN-SUFFIX,me.com,Apple
+DOMAIN-SUFFIX,mzstatic.com,Apple
+DOMAIN-KEYWORD,apple.com.akadns.net,Apple
+DOMAIN-KEYWORD,apple.com.edgekey.net,Apple
+DOMAIN-KEYWORD,apple-support.akadns.net,Apple
+DOMAIN-KEYWORD,icloud.com.akadns.net,Apple
+
+# > Microsoft
+DOMAIN-SUFFIX,microsoft.com,DIRECT
+DOMAIN-SUFFIX,msecnd.net,DIRECT
+DOMAIN-SUFFIX,office365.com,DIRECT
+DOMAIN-SUFFIX,outlook.com,DIRECT
+DOMAIN-SUFFIX,s-microsoft.com,DIRECT
+DOMAIN-SUFFIX,visualstudio.com,DIRECT
+DOMAIN-SUFFIX,windows.com,DIRECT
+DOMAIN-SUFFIX,windowsupdate.com,DIRECT
+DOMAIN,officecdn-microsoft-com.akamaized.net,DIRECT
+
