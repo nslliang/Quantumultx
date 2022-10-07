@@ -1,0 +1,9 @@
+proxies:
+  - {name: 🎧 网易音乐 0, server: 43.143.84.40, port: 52002, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐 1, server: 155.248.169.205, port: 70, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐 2, server: os.tencentcdn.net, port: 25000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐 3, server: pc.tencentcdn.net, port: 35000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐 4, server: 118.31.23.173, port: 55, type: ss, cipher: aes-128-gcm, password: Anmuhi}
+  - {name: 🎧 网易音乐 5, server: 116.62.110.149, port: 55, type: ss, cipher: aes-128-gcm, password: AnmuwyHello}
+  - {name: 🎧 网易音乐 6, server: 101.132.192.212, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_etg0}
+  - {name: 🎧 网易音乐 7, server: 101.132.192.212, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_etg0}
