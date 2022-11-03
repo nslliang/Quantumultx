@@ -1,5 +1,5 @@
 proxies:
-  - {name: 🎧 网易音乐 0, server: 43.143.84.40, port: 52002, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐 0, server: 121.4.56.189, port: 28517, type: http, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐 1, server: 155.248.169.205, port: 70, type: http, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐 2, server: os.tencentcdn.net, port: 25000, type: http, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐 3, server: pc.tencentcdn.net, port: 35000, type: http, tls: false, skip-cert-verify: false}
